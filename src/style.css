@@ -88,6 +88,17 @@ button:focus-visible {
   }
 }
 
+/* p {
+  font-family: "Lucida Console", "Courier New", monospace;
+} */
+
+/* img {
+  vertical-align: middle;
+  width: 30%;
+  height: 30%;
+  border-radius: 50%;
+} */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
